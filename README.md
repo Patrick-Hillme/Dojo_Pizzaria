@@ -1,0 +1,1 @@
+This assignment required me to make an object function for pizza. After making the object I was given 2 example pizzas and 2 to make on my own. 
